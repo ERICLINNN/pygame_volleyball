@@ -1,3 +1,7 @@
+# Pixel Monster Smash 
+
+Pixel Monster Smash is a local two player competitive volleyball game.
+
 ## Installation
 
 1. Make sure you have **Python 3.12** installed（Pygame may not always support the latest Python version immediately）.
