@@ -1,6 +1,6 @@
 ## Installation
 
-1. Make sure you have **Python 3.12** installed.
+1. Make sure you have **Python 3.12** installed（Pygame may not always support the latest Python version immediately）.
 
 2. Install the Pygame library:
 
