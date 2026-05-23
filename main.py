@@ -6,6 +6,9 @@ from player import Player
 from ball import Ball
 from game_view import draw_game_scene
 
+# ==============================================================================
+# Game Entry Point: Initializes systems, loads assets, and starts the game loop.
+# ==============================================================================
 def main():
     pygame.init()
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
